@@ -1,0 +1,29 @@
+import java.util.HashSet;
+
+public class Solution {
+    public boolean isValidSudoku(char[][] board) {
+        HashSet<String> seen = new HashSet<>();
+
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+
+                char num = board[i][j];
+
+                if (num != '.') {
+                    // create unique keys
+                    String row = "row" + i + num;
+                    String col = "col" + j + num;
+                    String box = "box" + (i/3) + (j/3) + num;
+
+                    // check duplicates
+                    if (!seen.add(row) || 
+                        !seen.add(col) || 
+                        !seen.add(box)) {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    }
+}
