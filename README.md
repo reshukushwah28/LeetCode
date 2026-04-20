@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/reshukushwah28/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/reshukushwah28/LeetCode/tree/master/0039-combination-sum) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/reshukushwah28/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Queue
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -51,4 +53,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/reshukushwah28/LeetCode/tree/master/0039-combination-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
