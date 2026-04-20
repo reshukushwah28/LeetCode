@@ -6,7 +6,6 @@ class Solution {
        StringBuilder sym = new StringBuilder();
        
        for(char c : arr){
-        // iswords ki jagah isLetter use hoga
         if(Character.isLetter(c)){ 
             words.append(c);
         } else {
@@ -14,6 +13,7 @@ class Solution {
                 }
 }
        int Lidx = words.length() - 1;
+       
        int sindx = sym.length() - 1; 
        char[] result = new char[n];
               for(int i = 0; i < n; i++){
