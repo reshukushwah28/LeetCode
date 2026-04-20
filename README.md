@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/reshukushwah28/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/reshukushwah28/LeetCode/tree/master/0039-combination-sum) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/reshukushwah28/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Queue
 |  |
 | ------- |
