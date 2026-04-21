@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/reshukushwah28/LeetCode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/reshukushwah28/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/reshukushwah28/LeetCode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
 ## Merge Sort
@@ -87,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/reshukushwah28/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
 ## Simulation
 |  |
