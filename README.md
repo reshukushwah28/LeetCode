@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/reshukushwah28/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/reshukushwah28/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/reshukushwah28/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
