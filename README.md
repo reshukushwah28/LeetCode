@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/reshukushwah28/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/reshukushwah28/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/reshukushwah28/LeetCode/tree/master/0402-remove-k-digits) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/reshukushwah28/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/reshukushwah28/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -123,8 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
