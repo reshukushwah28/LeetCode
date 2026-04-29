@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/reshukushwah28/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/reshukushwah28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/reshukushwah28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
 ## Bit Manipulation
 |  |
