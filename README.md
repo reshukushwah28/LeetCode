@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/reshukushwah28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
 ## Math
 |  |
 | ------- |
