@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/reshukushwah28/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reshukushwah28/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Queue
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reshukushwah28/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/reshukushwah28/LeetCode/tree/master/0147-insertion-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reshukushwah28/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
