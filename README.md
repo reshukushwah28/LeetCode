@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/reshukushwah28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/reshukushwah28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
