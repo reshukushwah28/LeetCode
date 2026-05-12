@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshukushwah28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/reshukushwah28/LeetCode/tree/master/0704-binary-search) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/reshukushwah28/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/reshukushwah28/LeetCode/tree/master/0704-binary-search) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/reshukushwah28/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reshukushwah28/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
