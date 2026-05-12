@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/reshukushwah28/LeetCode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0867-transpose-matrix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/reshukushwah28/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
