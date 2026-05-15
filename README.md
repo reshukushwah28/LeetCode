@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/reshukushwah28/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/reshukushwah28/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/reshukushwah28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/reshukushwah28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reshukushwah28/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reshukushwah28/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/reshukushwah28/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
