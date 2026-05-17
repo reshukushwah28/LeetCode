@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/reshukushwah28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reshukushwah28/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/reshukushwah28/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/reshukushwah28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reshukushwah28/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/reshukushwah28/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/reshukushwah28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reshukushwah28/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/reshukushwah28/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/reshukushwah28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reshukushwah28/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/reshukushwah28/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
