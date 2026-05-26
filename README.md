@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/reshukushwah28/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/reshukushwah28/LeetCode/tree/master/0402-remove-k-digits) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/reshukushwah28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/reshukushwah28/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/reshukushwah28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/reshukushwah28/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
