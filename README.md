@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshukushwah28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/reshukushwah28/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/reshukushwah28/LeetCode/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/reshukushwah28/LeetCode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshukushwah28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
 | ------- |
