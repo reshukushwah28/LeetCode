@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/reshukushwah28/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/reshukushwah28/LeetCode/tree/master/0120-triangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/reshukushwah28/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/reshukushwah28/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/reshukushwah28/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/reshukushwah28/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/reshukushwah28/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/reshukushwah28/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
