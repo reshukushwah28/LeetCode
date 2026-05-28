@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshukushwah28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/reshukushwah28/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/reshukushwah28/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/reshukushwah28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/reshukushwah28/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/reshukushwah28/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/reshukushwah28/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/reshukushwah28/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/reshukushwah28/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/reshukushwah28/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/reshukushwah28/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/reshukushwah28/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/reshukushwah28/LeetCode/tree/master/0633-sum-of-square-numbers) |
