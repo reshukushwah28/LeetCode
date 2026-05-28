@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/reshukushwah28/LeetCode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/reshukushwah28/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/reshukushwah28/LeetCode/tree/master/0065-valid-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/reshukushwah28/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/reshukushwah28/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/reshukushwah28/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/reshukushwah28/LeetCode/tree/master/0268-missing-number) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/reshukushwah28/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/reshukushwah28/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/reshukushwah28/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/reshukushwah28/LeetCode/tree/master/0066-plus-one) |
