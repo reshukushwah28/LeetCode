@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/reshukushwah28/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/reshukushwah28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/reshukushwah28/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/reshukushwah28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/reshukushwah28/LeetCode/tree/master/0054-spiral-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/reshukushwah28/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/reshukushwah28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/reshukushwah28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/reshukushwah28/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/reshukushwah28/LeetCode/tree/master/0070-climbing-stairs) |
