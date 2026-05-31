@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/reshukushwah28/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reshukushwah28/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2126-destroying-asteroids](https://github.com/reshukushwah28/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/reshukushwah28/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/reshukushwah28/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/reshukushwah28/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/reshukushwah28/LeetCode/tree/master/0402-remove-k-digits) |
+| [2126-destroying-asteroids](https://github.com/reshukushwah28/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/reshukushwah28/LeetCode/tree/master/0912-sort-an-array) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1122-relative-sort-array](https://github.com/reshukushwah28/LeetCode/tree/master/1122-relative-sort-array) |
+| [2126-destroying-asteroids](https://github.com/reshukushwah28/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Merge Sort
 |  |
 | ------- |
