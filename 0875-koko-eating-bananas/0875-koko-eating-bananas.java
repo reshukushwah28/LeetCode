@@ -8,7 +8,6 @@ class Solution {
         while (low <= high) {
             int mid = low + (high - low) / 2;
             
-            // 1. 'total' ko long mein store karo kyunki helper ab long return karega
             long total = helper(piles, mid);
             
             if (total <= h) {
@@ -20,9 +19,8 @@ class Solution {
         return low;
     }
     
-    // 2. Return type ko 'int' se badal kar 'long' kiya
     public long helper(int[] piles, int h) {
-        long total = 0; // 3. 'total' variable ko bhi long banaya taaki overflow na ho
+        long total = 0; 
         for (int num : piles) {
             total += (int) Math.ceil((double) num / h);
         }
