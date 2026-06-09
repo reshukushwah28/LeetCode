@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/reshukushwah28/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/reshukushwah28/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/reshukushwah28/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/reshukushwah28/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Queue
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/reshukushwah28/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/reshukushwah28/LeetCode/tree/master/0402-remove-k-digits) |
 | [2126-destroying-asteroids](https://github.com/reshukushwah28/LeetCode/tree/master/2126-destroying-asteroids) |
+| [3689-maximum-total-subarray-value-i](https://github.com/reshukushwah28/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
 |  |
 | ------- |
