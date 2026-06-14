@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reshukushwah28/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/reshukushwah28/LeetCode/tree/master/0402-remove-k-digits) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/reshukushwah28/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/reshukushwah28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/reshukushwah28/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0923-3sum-with-multiplicity](https://github.com/reshukushwah28/LeetCode/tree/master/0923-3sum-with-multiplicity) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/reshukushwah28/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/reshukushwah28/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/reshukushwah28/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0147-insertion-sort-list](https://github.com/reshukushwah28/LeetCode/tree/master/0147-insertion-sort-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/reshukushwah28/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/reshukushwah28/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
