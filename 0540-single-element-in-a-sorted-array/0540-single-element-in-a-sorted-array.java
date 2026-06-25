@@ -1,18 +1,10 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int l = 0, h = nums.length-1;
-        while(l<h){
-            int mid = l+(h-l)/2;
-            if(mid %2==1)
-                mid--;
-            
-            if(nums[mid] == nums[mid+1]){
-                l = mid+2;
-            }
-            else
-             h = mid;
+        int XOR = 0;
+        for(int i =0;i<nums.length;i++){
+            XOR^=nums[i];
         }
-return nums[l];
-        }
+        return XOR;
         
     }
+}
